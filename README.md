@@ -18,7 +18,7 @@ Willkommen beim Small Text Converter! Dieses Tool wurde entwickelt, um Texte in 
 
 1. Klone das Repository:
    ```bash
-   git clone https://github.com/username/small-text-converter.git
+   git clone https://github.com/fambosyt/small-text-converter.git
    ```
 2. Navigiere in das Projektverzeichnis:
    ```bash
@@ -41,7 +41,7 @@ Dieses Projekt ist urheberrechtlich geschützt. Das Urheberrecht liegt ausschlie
 
 ## Support
 
-Wenn Sie Fragen, Anregungen oder Probleme haben, wenden Sie sich bitte an [kontakt@minefreaks.de](mailto:kontakt@minefreaks.de).
+Wenn Sie Fragen, Anregungen oder Probleme haben, wenden Sie sich bitte an [ytfambos@gmail.com](mailto:ytfambos@gmail.com).
 
 Vielen Dank, dass Sie den Small Text Converter verwenden!
 
